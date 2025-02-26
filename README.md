@@ -8,7 +8,7 @@ AI content detectors are tools designed to identify whether a piece of text was 
 
 In this review, we explore the best AI content detectors available, focusing on their features, strengths, and potential drawbacks. The top two detectors are originality.ai and undetectable.ai, followed by other notable options.
 
-## 1. originality.ai
+## 1. Originality.ai
 
 [originality.ai](https://2ly.link/24eeC) is a leading AI content detector tailored for serious content publishers. It specializes in detecting AI-generated content in web content, blog posts, books, and news articles. Key features include:
 
@@ -27,7 +27,7 @@ In this review, we explore the best AI content detectors available, focusing on 
 👉 [Try originality.ai here](https://2ly.link/24eeC)
 
 
-## 2. undetectable.ai
+## 2. Undetectable.ai
 
 [undetectable.ai](https://2ly.link/24eeF) offers a unique combination of AI content detection and humanization features. It allows users to check if their content is likely to be flagged as AI-generated and provides tools to make it appear more human-like.
 
